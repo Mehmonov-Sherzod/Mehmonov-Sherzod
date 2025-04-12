@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehmonov-Sherzod</h1>
-<h3 align="left">Connect with me:</h3>  https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC
+<h3 align="left">Connect with me:</h3>  
+
 <p align="left">
 </p>
 
